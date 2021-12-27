@@ -1,0 +1,35 @@
+.morris-hover {
+	position: absolute;
+	z-index: 1000
+}
+.morris-hover.morris-default-style {
+    background: #96ed33 none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #000000;
+    font-size: 12px;
+    padding: 6px 40px;
+    text-align: center;
+}
+.morris-hover.morris-default-style {
+	background: #4e4a8b none repeat scroll 0 0;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 12px;
+	padding: 6px 25px;
+	text-align: center;
+}
+.morris-hover.morris-default-style .morris-hover-row-label {
+	font-weight: bold;
+	margin: 0.25em 0
+}
+.morris-hover.morris-default-style .morris-hover-point {
+	white-space: nowrap;
+	margin: 0.1em 0
+}
+
+ .morris-hover-point {
+	color: #fff !important;
+}
+.chartbox {
+	padding: 20px 0;
+}
